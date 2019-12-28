@@ -1,0 +1,56 @@
+{
+    "Markers": [
+        {
+            "endDatetime": "2019-12-28T15:26:08.827139+03:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened Start",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2019-12-28T15:26:08.827139+03:00",
+            "type": "instance",
+            "uuid": "b533378e-0f56-4181-ab65-a45e8cff3743",
+            "value": 1
+        },
+        {
+            "endDatetime": "2019-12-28T15:26:32.360237+03:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Opened End",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2019-12-28T15:26:32.360237+03:00",
+            "type": "instance",
+            "uuid": "6ee62231-93cd-4060-86e7-21bfd904ea5e",
+            "value": 2
+        },
+        {
+            "endDatetime": "2019-12-28T15:26:41.148893+03:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "Eyes Closed Start",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2019-12-28T15:26:41.148893+03:00",
+            "type": "instance",
+            "uuid": "e1a7430a-37bf-4002-b8ec-c8e4ecf14d73",
+            "value": 3
+        },
+        {
+            "endDatetime": "2019-12-28T15:27:04.758163+03:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "Eyes Closed End",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2019-12-28T15:27:04.758163+03:00",
+            "type": "instance",
+            "uuid": "c9a15240-8078-4354-ac21-1abc503bb2f3",
+            "value": 4
+        }
+    ],
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2019-12-28T15:28:14.131+03:00",
+    "recordId": "1ec1807a-585c-4f9f-bfce-c5b9eb93a9f2",
+    "user": "qasim3"
+}
