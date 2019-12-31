@@ -1,5 +1,13 @@
 # BCI-X
 ##### A BCI calculator application that senses changes in neural activity caused by clenching of jaws to produce sudden peaks changes in Electric Potential in time domain to be sensed upon the program.
+
+### How to run this project?
+`$ git clone https://github.com/QasimWani/BCI`
+#
+`$ cd Model/"Music Sync Models"`
+#
+`$ python clench.py `
+
 #
 ![image](https://pbs.twimg.com/media/ENJjFu8WkAAnTCl?format=jpg&name=medium)
  Caption : Δ Electric Potential over time reflected by the changes in peak voltage.
