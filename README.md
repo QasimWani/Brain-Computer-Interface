@@ -10,7 +10,7 @@
 # YouTube : BCI Calculator Implementation
 [![BCI Calculator Implementation YouTube Link](https://img.youtube.com/vi/EHHWT0V7jj0/0.jpg)](https://www.youtube.com/watch?v=EHHWT0V7jj0)
 
-#
+#### Images to heighten interest
 ![image](https://pbs.twimg.com/media/ENJjFu8WkAAnTCl?format=jpg&name=medium)
  Caption : Δ Electric Potential over time reflected by the changes in peak voltage.
 #
