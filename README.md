@@ -4,7 +4,7 @@
 ### How to run this project?
 `$ git clone https://github.com/QasimWani/BCI`
 #
-`$ cd Model/"Music Sync Models"`
+`$ cd BCI/Model/"Music Sync Models"`
 #
 `$ python clench.py `
 
