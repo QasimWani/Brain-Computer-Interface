@@ -75,6 +75,7 @@ def count_peaks_validation(peaks, x, threshold_vertical):
     plt.xlabel("Time (sample_rate (128) per second expansion)")
     plt.ylabel("Amplitude")
     plt.title("Time Domain Chart of Peak count (One-Sided f(x))", y=1.08)
+    plt.show()
     return count
 
 def ease(index, distance, start_index, threshold_vertical, height, width):
