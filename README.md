@@ -1,6 +1,2 @@
-# BCI
-Screwing around with Emotiv Insight to build a really cool classifier
-# Tasks:
-> 1. Understand the data sent from the 5 channels and set out the best parameters.
-> 2. Collect data based on application.
-> 3. Build the ML classifier.
+# BCI-X
+##### A BCI calculator application that senses changes in neural activity caused by clenching of jaws to produce sudden peaks changes in Electric Potential in time domain to be sensed upon the program.
