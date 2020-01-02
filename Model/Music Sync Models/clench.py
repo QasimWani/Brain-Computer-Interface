@@ -110,6 +110,7 @@ def decode_brain_wave():
         else:
             operation = operation[int(x%10)]
             check = True
+
     opA = int(opA)
     opB = int(opB)
 
